@@ -8,10 +8,43 @@
 <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
 
 <messages>
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/CA projects/MohamedZakaria_20103101_2023/ALU.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/ALU.vhd&quot; into library work</arg>
 </msg>
 
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/CA projects/MohamedZakaria_20103101_2023/AluControl_20103101_2023.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/AluControl_20103101_2023.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/Memory_20103101_2023.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/controlunit_mohamedzakaria_20103101.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/instructionmemory_mohamedzakaria_20103101.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/mux5_mohamedzakaria_20103101.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/mux_32_mohamedzakaria_20103101.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/pc_mohamedzakaria_20103101.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/pcadder_mohamedzakaria_20103101.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/processor_zikoo_20103101.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/registerfile_mohamedzakaria_20103101.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/shift_left_mohamedzakaria_20103101.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/sign_extend_mohamedzakaria_20103101.vhd&quot; into library work</arg>
 </msg>
 
 </messages>

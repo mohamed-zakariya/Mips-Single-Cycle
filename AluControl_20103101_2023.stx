@@ -1,16 +1,16 @@
 Release 14.7 - xst P.20131013 (nt64)
 Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
---> Parameter TMPDIR set to D:/CA projects/MohamedZakaria_20103101_2023/xst/projnav.tmp
+--> Parameter TMPDIR set to D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/xst/projnav.tmp
 
 
 Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.42 secs
+Total CPU time to Xst completion: 0.10 secs
  
---> Parameter xsthdpdir set to D:/CA projects/MohamedZakaria_20103101_2023/xst
+--> Parameter xsthdpdir set to D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/xst
 
 
 Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.42 secs
+Total CPU time to Xst completion: 0.10 secs
  
 --> Reading design: AluControl_20103101_2023.prj
 
@@ -39,17 +39,17 @@ TABLE OF CONTENTS
 =========================================================================
 *                          HDL Parsing                                  *
 =========================================================================
-Parsing VHDL file "D:\CA projects\MohamedZakaria_20103101_2023\AluControl_20103101_2023.vhd" into library work
+Parsing VHDL file "D:\CA projects\MohamedZakaria_20103101\Mips-Desgin\AluControl_20103101_2023.vhd" into library work
 Parsing entity <AluControl_20103101_2023>.
 Parsing architecture <Behavioral> of entity <alucontrol_20103101_2023>.
 
 
-Total REAL time to Xst completion: 4.00 secs
-Total CPU time to Xst completion: 4.34 secs
+Total REAL time to Xst completion: 5.00 secs
+Total CPU time to Xst completion: 5.05 secs
  
 --> 
 
-Total memory usage is 4472412 kilobytes
+Total memory usage is 4472732 kilobytes
 
 Number of errors   :    0 (   0 filtered)
 Number of warnings :    0 (   0 filtered)

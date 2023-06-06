@@ -1,0 +1,8 @@
+xst -intstyle ise -ifn "D:/CA projects/Mips-Desgin/Memory_20103101_2023.xst" -ofn "D:/CA projects/Mips-Desgin/Memory_20103101_2023.syr" 
+xst -intstyle ise -ifn "E:/CA projects/Mips-Desgin/Memory_20103101_2023.xst" -ofn "E:/CA projects/Mips-Desgin/Memory_20103101_2023.syr" 
+xst -intstyle ise -ifn "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/Memory_20103101_2023.xst" -ofn "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/Memory_20103101_2023.syr" 
+xst -intstyle ise -ifn "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/Memory_20103101_2023.xst" -ofn "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/Memory_20103101_2023.syr" 
+xst -intstyle ise -ifn "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/Memory_20103101_2023.xst" -ofn "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/Memory_20103101_2023.syr" 
+xst -intstyle ise -ifn "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/Memory_20103101_2023.xst" -ofn "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/Memory_20103101_2023.syr" 
+xst -intstyle ise -ifn "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/Memory_20103101_2023.xst" -ofn "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/Memory_20103101_2023.syr" 
+xst -intstyle ise -ifn "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/Memory_20103101_2023.xst" -ofn "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/Memory_20103101_2023.syr" 

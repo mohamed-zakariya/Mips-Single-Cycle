@@ -1,5 +1,5 @@
-set -tmpdir "D:/CA projects/MohamedZakaria_20103101_2023/xst/projnav.tmp"
-set -xsthdpdir "D:/CA projects/MohamedZakaria_20103101_2023/xst"
+set -tmpdir "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/xst/projnav.tmp"
+set -xsthdpdir "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/xst"
 run -compileonly yes
 -p xc7a100t-3-csg324
 -top AluControl_20103101_2023

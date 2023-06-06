@@ -44,14 +44,14 @@ begin
 
 if(ALUOp = "00") then ALUoperation <= "0010";
 elsif(ALUOp = "01") then ALUoperation <= "0110" ;
-elsif(ALUOp= "10") then if(func = "0000") then ALUoperation <= "0010";
-elsif(func = "0010") then ALUoperation <= "0110";  
-elsif(func = "0100") then ALUoperation <= "0000";
-elsif(func = "0101") then ALUoperation <= "0001";
-elsif(func = "1010") then ALUoperation <= "0111";   
+elsif(ALUOp= "10") then if(instruction(3 downto 0) = "0000") then ALUoperation <= "0010";
+elsif(instruction(3 downto 0) = "0010") then ALUoperation <= "0110";  
+elsif(instruction(3 downto 0) = "0100") then ALUoperation <= "0000";
+elsif(instruction(3 downto 0) = "0101") then ALUoperation <= "0001";
+elsif(instruction(3 downto 0) = "1010") then ALUoperation <= "0111";   
 end if;
-elsif(ALUOp = "11") then if(func = "0010") then ALUoperation <= "0110";
-elsif(func = "1010") then ALUoperation <= "0111";
+elsif(ALUOp = "11") then if(instruction(3 downto 0) = "0010") then ALUoperation <= "0110";
+elsif(instruction(3 downto 0) = "1010") then ALUoperation <= "0111";
 end if;
 end if;
 end process;

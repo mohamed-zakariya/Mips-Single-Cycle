@@ -1,18 +1,43 @@
-Running: D:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o D:/CA projects/MohamedZakaria_20103101_2023/ALU_20103101_2023_isim_beh.exe -prj D:/CA projects/MohamedZakaria_20103101_2023/ALU_20103101_2023_beh.prj work.ALU_20103101_2023 
+Running: D:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/processor_isim_beh.exe -prj D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/processor_beh.prj work.processor 
 ISim P.20131013 (signature 0x7708f090)
 Number of CPUs detected in this system: 16
 Turning on mult-threading, number of parallel sub-compilation jobs: 32 
 Determining compilation order of HDL files
-Parsing VHDL file "D:/CA projects/MohamedZakaria_20103101_2023/AluControl_20103101_2023.vhd" into library work
-Parsing VHDL file "D:/CA projects/MohamedZakaria_20103101_2023/ALU_20103101_2023.vhd" into library work
+Parsing VHDL file "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/sign_extend_mohamedzakaria_20103101.vhd" into library work
+Parsing VHDL file "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/shift_left_mohamedzakaria_20103101.vhd" into library work
+Parsing VHDL file "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/registerfile_mohamedzakaria_20103101.vhd" into library work
+Parsing VHDL file "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/pc_mohamedzakaria_20103101.vhd" into library work
+Parsing VHDL file "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/pcadder_mohamedzakaria_20103101.vhd" into library work
+Parsing VHDL file "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/mux_32_mohamedzakaria_20103101.vhd" into library work
+Parsing VHDL file "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/mux5_mohamedzakaria_20103101.vhd" into library work
+Parsing VHDL file "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/Memory_20103101_2023.vhd" into library work
+Parsing VHDL file "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/instructionmemory_mohamedzakaria_20103101.vhd" into library work
+Parsing VHDL file "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/controlunit_mohamedzakaria_20103101.vhd" into library work
+Parsing VHDL file "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/AluControl_20103101_2023.vhd" into library work
+Parsing VHDL file "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/ALU.vhd" into library work
+Parsing VHDL file "D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/processor_zikoo_20103101.vhd" into library work
 Starting static elaboration
 Completed static elaboration
 Compiling package standard
 Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity pc_mohamedzakaria_20103101 [pc_mohamedzakaria_20103101_defau...]
+Compiling architecture behavioral of entity adder_mohamedzakaria_20103101 [adder_mohamedzakaria_20103101_de...]
+Compiling architecture behavioral of entity instructionmemory_mohamedzakaria_20103101 [instructionmemory_mohamedzakaria...]
+Compiling architecture behavioral of entity controlunit_mohamedzakaria_20103101 [controlunit_mohamedzakaria_20103...]
+Compiling architecture behavioral of entity mux5_mohamedzakaria_20103101 [mux5_mohamedzakaria_20103101_def...]
+Compiling architecture behavioral of entity mux_32_mohamedzakaria_20103101 [mux_32_mohamedzakaria_20103101_d...]
+Compiling architecture behavioral of entity registerfile_mohamedzakaria_20103101 [registerfile_mohamedzakaria_2010...]
+Compiling architecture behavioral of entity sign_extend_mohamedzakaria_20103101 [sign_extend_mohamedzakaria_20103...]
+Compiling architecture behavioral of entity shift_left_mohamedzakaria_20103101 [shift_left_mohamedzakaria_201031...]
 Compiling architecture behavioral of entity AluControl_20103101_2023 [alucontrol_20103101_2023_default]
-Compiling architecture behavior of entity alu_20103101_2023
+Compiling architecture behavioral of entity ALU [alu_default]
+Compiling architecture behavioral of entity Memory_20103101_2023 [memory_20103101_2023_default]
+Compiling architecture behavioral of entity processor
 Time Resolution for simulation is 1ps.
-Compiled 5 VHDL Units
-Built simulation executable D:/CA projects/MohamedZakaria_20103101_2023/ALU_20103101_2023_isim_beh.exe
-Fuse Memory Usage: 30920 KB
-Fuse CPU Usage: 264 ms
+Compiled 30 VHDL Units
+Built simulation executable D:/CA projects/MohamedZakaria_20103101/Mips-Desgin/processor_isim_beh.exe
+Fuse Memory Usage: 38796 KB
+Fuse CPU Usage: 421 ms
